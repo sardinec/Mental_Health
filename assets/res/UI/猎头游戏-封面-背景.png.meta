@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7bfc2642-5a40-44e5-bf33-22e0a0b1778f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1080,
+  "height": 1920,
+  "platformSettings": {},
+  "subMetas": {
+    "猎头游戏-封面-背景": {
+      "ver": "1.0.4",
+      "uuid": "c36c7e8f-8724-4717-9d8f-b3e819984e28",
+      "rawTextureUuid": "7bfc2642-5a40-44e5-bf33-22e0a0b1778f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1080,
+      "height": 1920,
+      "rawWidth": 1080,
+      "rawHeight": 1920,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

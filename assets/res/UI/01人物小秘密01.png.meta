@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6491a739-2914-4627-836d-d0500a80aaf0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 308,
+  "height": 92,
+  "platformSettings": {},
+  "subMetas": {
+    "01人物小秘密01": {
+      "ver": "1.0.4",
+      "uuid": "dcb57f28-83cb-4c4a-b7be-0de9c4c95454",
+      "rawTextureUuid": "6491a739-2914-4627-836d-d0500a80aaf0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 308,
+      "height": 92,
+      "rawWidth": 308,
+      "rawHeight": 92,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "White_in",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.1666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": "sineIn"
+        },
+        {
+          "frame": 1.1666666666666667,
+          "value": 255
+        }
+      ]
+    }
+  },
+  "events": []
+}

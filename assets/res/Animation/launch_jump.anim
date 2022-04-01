@@ -1,0 +1,42 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "launch_jump",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -3,
+            -99
+          ],
+          "motionPath": [
+            [
+              0,
+              202,
+              -2,
+              51,
+              1,
+              359
+            ]
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            3,
+            518
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

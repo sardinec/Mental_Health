@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "60d3fa43-f5b8-449e-817c-af82c5a677ee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 81,
+  "platformSettings": {},
+  "subMetas": {
+    "继续游戏 深色2-新": {
+      "ver": "1.0.4",
+      "uuid": "58bbe22f-2cc0-47b8-9d74-d2d9423412a1",
+      "rawTextureUuid": "60d3fa43-f5b8-449e-817c-af82c5a677ee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 300,
+      "height": 81,
+      "rawWidth": 300,
+      "rawHeight": 81,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

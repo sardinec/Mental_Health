@@ -1,0 +1,66 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Att_In",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.8333333333333335,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": -988.007
+        },
+        {
+          "frame": 0.08333333333333333,
+          "value": 833.538,
+          "curve": [
+            0.18,
+            0.89,
+            0.31,
+            1.21
+          ]
+        },
+        {
+          "frame": 1,
+          "value": -13.982
+        },
+        {
+          "frame": 2.3333333333333335,
+          "value": -13.982,
+          "curve": "expoInOut"
+        },
+        {
+          "frame": 2.8333333333333335,
+          "value": -988.007
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 10
+        },
+        {
+          "frame": 0.08333333333333333,
+          "value": 10
+        },
+        {
+          "frame": 1,
+          "value": 255
+        },
+        {
+          "frame": 2.3333333333333335,
+          "value": 255
+        },
+        {
+          "frame": 2.8333333333333335,
+          "value": 10
+        }
+      ]
+    }
+  },
+  "events": []
+}

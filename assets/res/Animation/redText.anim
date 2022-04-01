@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "redText",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 54,
+  "curveData": {
+    "comps": {
+      "cc.LabelOutline": {
+        "width": [
+          {
+            "frame": 0,
+            "value": 0
+          },
+          {
+            "frame": 1.5666666666666667,
+            "value": 3.9926499999994824
+          },
+          {
+            "frame": 2,
+            "value": 5
+          }
+        ]
+      }
+    },
+    "props": {}
+  },
+  "events": []
+}

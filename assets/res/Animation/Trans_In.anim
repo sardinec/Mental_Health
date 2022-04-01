@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Trans_In",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "height": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": "quadOut"
+        },
+        {
+          "frame": 1.5833333333333333,
+          "value": 2000
+        }
+      ]
+    },
+    "comps": {
+      "cc.Widget": {
+        "top": []
+      }
+    }
+  },
+  "events": []
+}
